@@ -4,7 +4,7 @@ title: Privacy Policy / 隐私政策 · CleanFast
 
 # Privacy Policy / 隐私政策
 
-**Last updated / 最后更新：2026-09-10**
+**Last updated / 最后更新：2026-09-11**
 
 ---
 
@@ -49,9 +49,10 @@ title: Privacy Policy / 隐私政策 · CleanFast
 - 不读取剪贴板
 - 仅在你启用提醒时请求"通知"权限
 
-### 儿童
+### 年龄要求
 
-本应用**不针对 13 岁以下儿童**，也不收集儿童任何数据。
+本应用**仅面向年满 18 岁的人士**，不向 18 岁以下人群提供断食计时与提醒服务。
+我们不收集任何用户数据，包括未成年人的数据。
 App Store 的内容年龄分级以所在地区和系统版本的商店展示为准；该分级不代表断食适合相应年龄的人群。
 使用前请阅读[使用条款](terms.html)中的健康与医疗说明。
 
@@ -107,9 +108,10 @@ The app **requests no sensitive permissions**:
 - No clipboard reading
 - Only requests notification permission if you enable reminders
 
-### Children
+### Age Requirements
 
-This app **is not directed at children under 13** and collects no children's data.
+This app **is intended only for people aged 18 and over**. We do not offer fasting timers or reminders to anyone under 18.
+We collect no user data, including data from minors.
 Refer to the App Store listing for the content age rating applicable to your region and OS version.
 That rating does not indicate that fasting is suitable for people of that age.
 Please read the health and medical information in our [Terms of Use](terms.html) before use.

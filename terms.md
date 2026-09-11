@@ -4,7 +4,7 @@ title: Terms of Use / 使用条款 · CleanFast
 
 # Terms of Use / 使用条款
 
-**Last updated / 最后更新：2026-07-20**
+**Last updated / 最后更新：2026-09-11**
 
 ---
 
@@ -18,6 +18,8 @@ title: Terms of Use / 使用条款 · CleanFast
 （[EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)）。
 若你不同意任一条款，请不要使用本应用。
 
+**本应用仅供年满 18 岁的人士使用。未满 18 岁，请勿使用本应用进行断食计时与提醒。**
+
 ### 2. 健康与医疗免责声明 ⚠️
 
 **本应用提供的间歇性断食信息仅供一般性参考，不构成医疗建议、诊断或治疗。**
@@ -28,7 +30,6 @@ title: Terms of Use / 使用条款 · CleanFast
   - 糖尿病或低血糖患者
   - 有进食障碍史者
   - 正在服药者
-  - 18 岁以下未成年人
   - 体重过轻者
 - 应用中的"阶段说明"基于一般性研究综述，不针对你的个人健康状况
 - 任何因使用本应用而产生的健康影响由用户自行承担
@@ -93,6 +94,8 @@ Standard End User License Agreement
 ([EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)).
 If you do not agree, do not use the app.
 
+**CleanFast is intended only for people aged 18 and over. If you are under 18, do not use this app for fasting timers or reminders.**
+
 ### 2. Health & Medical Disclaimer ⚠️
 
 **Information provided in this app is for general reference only and does not constitute
@@ -104,7 +107,6 @@ medical advice, diagnosis, or treatment.**
   - People with diabetes or hypoglycemia
   - Anyone with a history of eating disorders
   - Those taking prescription medication
-  - Minors under 18
   - Underweight individuals
 - The "stage" descriptions in the app are based on general research summaries
   and are not tailored to your personal health
