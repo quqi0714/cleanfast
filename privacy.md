@@ -4,7 +4,7 @@ title: Privacy Policy / 隐私政策 · CleanFast
 
 # Privacy Policy / 隐私政策
 
-**Last updated / 最后更新：2026-07-20**
+**Last updated / 最后更新：2026-09-10**
 
 ---
 
@@ -51,7 +51,9 @@ title: Privacy Policy / 隐私政策 · CleanFast
 
 ### 儿童
 
-本应用为 4+ 评级，**不针对 13 岁以下儿童**，也不收集儿童任何数据。
+本应用**不针对 13 岁以下儿童**，也不收集儿童任何数据。
+App Store 的内容年龄分级以所在地区和系统版本的商店展示为准；该分级不代表断食适合相应年龄的人群。
+使用前请阅读[使用条款](terms.html)中的健康与医疗说明。
 
 ### 政策变更
 
@@ -107,7 +109,10 @@ The app **requests no sensitive permissions**:
 
 ### Children
 
-This app is rated 4+, **is not directed at children under 13**, and collects no children's data.
+This app **is not directed at children under 13** and collects no children's data.
+Refer to the App Store listing for the content age rating applicable to your region and OS version.
+That rating does not indicate that fasting is suitable for people of that age.
+Please read the health and medical information in our [Terms of Use](terms.html) before use.
 
 ### Changes to This Policy
 
